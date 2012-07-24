@@ -16,9 +16,9 @@
 
   "dependencies": {
     "hubot": "*",
-	"hubot-socket.io": "*",
-    "hubot-scripts": ">=2.0.4",
-  },
+    "hubot-socket.io": "*",
+    "hubot-scripts": ">=2.0.4"
+    },
   "engines": {
     "node": "0.6.x",
     "npm": "1.0.x"
